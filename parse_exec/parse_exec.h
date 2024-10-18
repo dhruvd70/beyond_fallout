@@ -1,0 +1,1 @@
+bool parseAndExecute(char *input);
